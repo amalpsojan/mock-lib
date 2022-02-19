@@ -1,6 +1,6 @@
 {
   "name": "react-mock-lib",
-  "version": "2.1.0",
+  "version": "0.0.1",
   "description": "React Mock Library used for mocking api calls and redux state updates",
   "main": "index",
   "private": true,
