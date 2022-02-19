@@ -1,0 +1,21 @@
+{
+  "name": "react-mock-lib",
+  "version": "2.1.0",
+  "description": "React Mock Library used for mocking api calls and redux state updates",
+  "main": "index",
+  "private": true,
+  "scripts": {},
+  "peerDependencies": {
+    "react": "*"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/react-test-renderer": "^17.0.1",
+    "jest": "^26.6.3",
+    "react-test-renderer": "17.0.2",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "miragejs": "^0.1.43"
+  }
+}
